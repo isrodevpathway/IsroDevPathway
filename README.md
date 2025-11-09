@@ -72,8 +72,8 @@ Si mis proyectos te ayudan, puedes:
 
 <p align="center">
   <b>
-    <span style="font-size: 20px;">🚀 El conocimiento impulsa, el código transforma. Desarrolla sin límites.</span><br/>
-    <span style="font-size: 18px; color:#6C63FF;">Desarrolla sin límites.</span>
+    <span style="font-size: 20px;">🚀 El conocimiento impulsa, el código transforma.</span><br/>
+    <span style="font-size: 18px; color:#6C63FF;">Desarrolla sin límites.</span><br/>
     <span style="font-size: 18px; color:#6C63FF;">IsroDevPathway</span>
   </b>
 </p>
