@@ -7,7 +7,7 @@
 
 ---
 
-### 👋 ¡Hola, soy Isro!
+### 👋 ¡Hola, soy Israel!
 Soy desarrollador **Full Stack** y creador del canal **[IsroDevPathway](https://www.youtube.com/@IsroDevPathway)**.  
 Mi misión es ayudarte a dominar el desarrollo **de apps y servicios escalables** con código limpio, arquitectura profesional y ejemplos que sí se entienden.
 
